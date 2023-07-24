@@ -1,0 +1,3 @@
+[submodule "magcolloids"]
+	path = magcolloids
+	url = https://github.com/aortiza/magcolloids
